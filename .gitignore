@@ -1,4 +1,4 @@
-/.gitignore
-/target
-/sathish-spring-boot-starter.iml
-/.idea
+.idea
+*.iml
+target
+tomcat.*
